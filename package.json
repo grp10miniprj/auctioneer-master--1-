@@ -1,0 +1,34 @@
+{
+  "name": "auctioneer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "Matthew Budiman",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta2",
+    "firebase": "^8.10.1",
+    "framer-motion": "^4.1.17",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.2",
+    "react-countdown": "^2.3.5",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^5.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
